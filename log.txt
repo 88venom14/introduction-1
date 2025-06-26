@@ -1,0 +1,2 @@
+41fd7da (HEAD -> main, origin/main) Добавил status.txt
+d1708e9 Добавил README.md
